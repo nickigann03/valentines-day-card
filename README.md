@@ -34,15 +34,3 @@ You don't need to install any complex dependencies. This is a static web project
     ```
 3.  **Open the Card**:
     Simply double-click `index.html` to open it in your default browser.
-
-## 📂 Project Structure
-
-```text
-valentines-day-card/
-├── assets/          # Images, audio files, and icons
-├── css/
-│   └── style.css    # All styling and animations
-├── js/
-│   └── script.js    # Logic for button interactions
-├── index.html       # Main entry point
-└── README.md        # This file
